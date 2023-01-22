@@ -1,4 +1,4 @@
 {
-  "item.gunmod.ammo.name": "Munition",
-  "item.gunmod.gun.name": "Pistolet"
+  "item.gunmod.ammo": "Munition",
+  "item.gunmod.gun": "Pistolet"
 }
