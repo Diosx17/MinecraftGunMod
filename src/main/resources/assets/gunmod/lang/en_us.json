@@ -1,5 +1,5 @@
 {
-    "item.gunmod.gun.name": "Gun",
-    "item.gunmod.ammo.name": "Ammo"
+    "item.gunmod.gun": "Gun",
+    "item.gunmod.ammo": "Ammo"
 
 }
